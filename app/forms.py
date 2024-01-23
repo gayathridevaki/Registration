@@ -13,4 +13,4 @@ class profileForm(forms.ModelForm):
     class Meta:
         model = profile
         fields=['address','profile_pic']
-        
+         
